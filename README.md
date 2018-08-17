@@ -1,4 +1,4 @@
-# football_schedule
+# Football Schedule
 
 A new Flutter application.
 
@@ -6,3 +6,7 @@ A new Flutter application.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+
+## Preview
+
+<img src="https://github.com/alfianyusufabdullah/FootballSchedule/blob/master/flutter_git.gif" width="250">
